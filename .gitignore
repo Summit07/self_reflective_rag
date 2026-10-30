@@ -1,0 +1,12 @@
+
+
+venv
+.venv
+.env
+__pycache__
+
+node_modules
+.next
+.env.local
+.env.example
+frontend-legacy
